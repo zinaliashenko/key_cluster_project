@@ -70,6 +70,11 @@ conda env create -f environment.yml
 conda activate key_cluster_env
 ```
 
+3. Download required spaCy model:
+```bash
+python -m spacy download en_core_web_trf
+```
+
 ## ▶️ Launching
 
 ```bash
