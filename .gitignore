@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+dist/
+build/
+building.py
+results/
+
+# Conda env
+.env/
+.venv/
+*.conda
+*.env
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.tsv
+*.xlsx
+*.doc
+
+# System
+.DS_Store
+Thumbs.db
